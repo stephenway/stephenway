@@ -1,1 +1,1 @@
-Currently working on projects in healthcare and music.
+Working on projects for peoples' health and happiness.
