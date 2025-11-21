@@ -1,1 +1,1 @@
-I'm a Software Engineer with over 22 years of experience in graphic design, web development, and software engineering. I have a deep passion for crafting meaningful experiences (UX), accessibility and helping engineers grow, and I enjoy balancing creativity with technical expertise.
+I build fast, deterministic developer tools that cut through slow, wasteful workflows and make automation actually feel smart. I come from design and software engineering, and I’m obsessed with clean systems, sharp ideas, and shipping things that make developers faster.
